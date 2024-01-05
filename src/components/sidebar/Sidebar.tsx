@@ -62,7 +62,7 @@ export const Sidebar = () => {
             />
           </span>
           <span className="text-sm md:text-base font-bold">
-            Fernando Herrera
+            Mateo Pedehonta
           </span>
         </a>
       </div>
